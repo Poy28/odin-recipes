@@ -1,3 +1,2 @@
 # odin-recipes
-Trying to learn how to git commit
-This should do the commit
+My solution to odin's html exercise.
