@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(77, 255, 136);
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid blue;
+    box-sizing: border-box;
+    height: 150px;
+    width: 160px;
+    padding: 20px 20px;
+    margin: 75px auto;
+}
+
+ul > li {
+    list-style: none;
+    display: inline-block;
+}
